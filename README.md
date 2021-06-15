@@ -54,6 +54,6 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 -----
-Credits: [Yasmeen Brain](https://github.com/ItsLiam1)
+Credits: [Liam](https://github.com/ItsLiam1)
 
 Last Edited on: 15/06/2021
